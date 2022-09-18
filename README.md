@@ -14,6 +14,6 @@ Projeto construído no evento Next level Week da Rocketseat.
 - CSS
 - Git e Github
 
-## ❤ Contato
+## 💙 Contato
 
 lucascesar.doliveira@gmail.com
